@@ -1,4 +1,4 @@
-# Fee Schedule Transformer (Py
+# Fee Schedule Transformer (Python)
 
 This python script takes a plain txt file containing insurance fee shedule allowables, strips any unnecessary information, and then writes
 the L-code and the allowable to a two-column excel file. This script is easily modifiable to suit your specific input and/or output 
